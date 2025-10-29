@@ -1,6 +1,8 @@
 # crt-search
 
-Dep: 
+Required Dependency: 
+
+postgresql-libs
 
 
 How to build?
