@@ -1,6 +1,4 @@
 /* crt-search.c – fetch common-name identities from crt.sh
- *   • raw data (no DISTINCT/ORDER BY in SQL)
- *   • uniqueness & sorting done locally (wildcards first, then a-z)
  *   • output to stdout **and** <domain>_identities.txt
  *   • C23-compatible, works with gcc on Arch Linux
  */
